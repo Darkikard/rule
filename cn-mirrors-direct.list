@@ -1,0 +1,19 @@
+# OpenBox 直连站点集：国内镜像源加速（2026-10-25）
+# 格式：sing-box .list，每行一个域名后缀；# 开头为注释
+pypi.tuna.tsinghua.edu.cn
+pypi.doubanio.com
+registry.npmmirror.com
+mirrors.aliyun.com
+mirrors.tuna.tsinghua.edu.cn
+mirrors.ustc.edu.cn
+mirrors.cloud.tencent.com
+maven.aliyun.com
+docker.m.daocloud.io
+docker.1ms.run
+docker.1panel.live
+dockerproxy.net
+hub.rat.dev
+ghcr.nju.edu.cn
+quay.nju.edu.cn
+ghfast.top
+gh-proxy.com
